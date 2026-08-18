@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Leandro%20Crescencio&fontSize=40&fontColor=ffffff&desc=Senior%20Quality%20Engineer%20%7C%20Test%20Automation&descAlignY=52&descSize=18&fontAlign=50&fontAlignY=34)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Leandro%20Crescencio&fontSize=40&fontColor=000000&desc=Senior%20Quality%20Engineer%20%7C%20Test%20Automation&descAlignY=65&descSize=18&fontAlign=50&fontAlignY=45)
 
 </div>
 
